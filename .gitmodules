@@ -1,0 +1,6 @@
+[submodule "DB-Docker"]
+	path = DB-Docker
+	url = git@github.com:Hilariods/DB-Docker.git
+[submodule "DB-Docke_RH-DP_ETL"]
+	path = DB-Docke_RH-DP_ETL
+	url = git@github.com:Hilariods/DB_RH-DP_Docker_ETL.git
